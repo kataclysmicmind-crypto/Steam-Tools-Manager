@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/kataclysmicmind-crypto/Steam-Tools-Manager/releases/download/v1.1.0/SteamToolsManager.exe",
+  "version": "1.2.0",
+  "download_url": "https://github.com/kataclysmicmind-crypto/Steam-Tools-Manager/releases/download/v1.2.0/SteamToolsManager.exe",
   "notes": "Fixed manifest fallback order and improved updater behavior."
 }
